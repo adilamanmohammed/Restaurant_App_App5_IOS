@@ -17,6 +17,7 @@
 		A514F5DC2C0BD964000DA681 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = A514F5D92C0BD964000DA681 /* DataService.swift */; };
 		A514F5DD2C0BD964000DA681 /* MenuItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = A514F5DA2C0BD964000DA681 /* MenuItem.swift */; };
 		A514F5DE2C0BD964000DA681 /* MenuListRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = A514F5DB2C0BD964000DA681 /* MenuListRow.swift */; };
+		A514F5E22C0E6670000DA681 /* PhotoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A514F5E12C0E6670000DA681 /* PhotoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		A514F5D92C0BD964000DA681 /* DataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 		A514F5DA2C0BD964000DA681 /* MenuItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuItem.swift; sourceTree = "<group>"; };
 		A514F5DB2C0BD964000DA681 /* MenuListRow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuListRow.swift; sourceTree = "<group>"; };
+		A514F5E12C0E6670000DA681 /* PhotoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = PhotoView.swift; path = ../PhotoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				A514F5CF2C0BD89B000DA681 /* GalleryView.swift */,
 				A514F5D12C0BD8A7000DA681 /* MenuView.swift */,
 				A514F5CD2C0BD886000DA681 /* AboutView.swift */,
+				A514F5E12C0E6670000DA681 /* PhotoView.swift */,
 				A514F5D92C0BD964000DA681 /* DataService.swift */,
 				A514F5DA2C0BD964000DA681 /* MenuItem.swift */,
 				A514F5DB2C0BD964000DA681 /* MenuListRow.swift */,
@@ -158,6 +161,7 @@
 				A514F5DD2C0BD964000DA681 /* MenuItem.swift in Sources */,
 				A514F5D22C0BD8A7000DA681 /* MenuView.swift in Sources */,
 				A514F5C22C0BD82C000DA681 /* MainView.swift in Sources */,
+				A514F5E22C0E6670000DA681 /* PhotoView.swift in Sources */,
 				A514F5CE2C0BD886000DA681 /* AboutView.swift in Sources */,
 				A514F5DC2C0BD964000DA681 /* DataService.swift in Sources */,
 				A514F5DE2C0BD964000DA681 /* MenuListRow.swift in Sources */,
